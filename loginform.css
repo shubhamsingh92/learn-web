@@ -1,0 +1,35 @@
+.form {
+  font-family: sans-serif;
+  padding: 20px;
+  width: 400px;
+  height: 250px;
+  background-color: lightgreen;
+  border-radius: 4px;
+  border: 2px solid black;
+}
+
+.first_name {
+  margin: 10px;
+}
+
+.first_name input{
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+.login_btn {
+  /* background: ; */
+  color: white;
+  background-color: red;
+  padding: 7px 20px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
+  cursor:pointer;
+}
+
+.login_btn:hover{
+    background-color:blue;
+    color: red;
+}
