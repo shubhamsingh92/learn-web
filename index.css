@@ -1,0 +1,42 @@
+.name{
+    padding: 50px;
+    height: 200px;
+    width: 200px;
+    color: red;
+    background-color: green;
+    font-size: 40px;
+}
+.name1{
+    height: 170px;
+    width: 180px;
+    color: orange;
+    background-color: blue;
+    font-size: 40px;
+}
+.name2{
+    width: 160px;
+    color:greenyellow;
+    background-color: violet;
+    font-size: 40px;
+}
+.name3{
+    width: 190px;
+    color: blue;
+    background-color: red;
+    font-size: 40px;
+}
+
+.button
+{
+    padding: 10px;
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    border: none
+}
+p{
+    text-transform:capitalize;
+    border-radius: 4px;
+    padding: 15px;
+    border: 1px solid red;
+}
