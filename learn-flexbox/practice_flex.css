@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightblue;
+    border: 10px;
+    height: 5rem;
+    padding:0 20px
+
+
+}
+.p1{
+    display: flex;
+    gap: 10px;
+}
+
+.p2{
+    display: flex;
+    gap: 10px;
+}
+
+.p3{
+    display: flex;
+    gap: 10px;
+}
